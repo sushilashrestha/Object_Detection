@@ -1,0 +1,9 @@
+data/
+clss.pkl
+deltas.pkl
+full_paths.pkl
+gtbbs.pkl
+ious.pkl
+model.pth
+rois.pkl
+venv/
