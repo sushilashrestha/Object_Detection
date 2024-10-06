@@ -113,11 +113,4 @@ RCNN is a popular object detection model that uses region proposals from Selecti
 - The Selective Search generates region proposals for object detection.
 - RCNN model processes these proposals, classifies objects, and localizes them using bounding box regression.
 
-### Example Output
-- Color Temperature that is used to combine the similar feature as one in selective search. Below are original and temperature images respectively
-    ![image](https://github.com/user-attachments/assets/81ab5dfa-8bfc-4ead-a265-8e4350424a74)
-
-- Original image with bounding boxes drawn after RCNN prediction:
-    ![2900bfdc-9cbf-44db-9457-0fd2b0e48948](https://github.com/user-attachments/assets/9f2508ec-3a4e-4604-ad0a-48370074f1bb)
-
 
